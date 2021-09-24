@@ -1,9 +1,3 @@
-/**
- * 
- * 
- * 
- */
-
 package com.pbopweek2;
 
 import java.util.Scanner;
